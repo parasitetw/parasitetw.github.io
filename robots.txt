@@ -11,4 +11,4 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://parasitetw.github.io
+Sitemap: https://parasitetw.github.io/sitemap.xml
