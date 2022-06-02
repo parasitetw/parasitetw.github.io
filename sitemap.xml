@@ -49,7 +49,7 @@
 
   <url>
     <loc>https://parasitetw.github.io/</loc>
-    <lastmod>2022-06-01</lastmod>
+    <lastmod>2022-06-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,7 +57,7 @@
   
   <url>
     <loc>https://parasitetw.github.io/tags/SQL/</loc>
-    <lastmod>2022-06-01</lastmod>
+    <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -66,7 +66,7 @@
   
   <url>
     <loc>https://parasitetw.github.io/categories/SQL/</loc>
-    <lastmod>2022-06-01</lastmod>
+    <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
